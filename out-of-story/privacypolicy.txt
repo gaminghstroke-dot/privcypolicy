@@ -1,0 +1,144 @@
+# Privacy Policy for برا السالفه (Out of the Story)
+
+**Last Updated: May 16, 2026**
+
+برا السالفه (“we,” “us,” or “our”), also known in English as **Out of the Story**, respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard information when you use the برا السالفه mobile application (“App”).
+
+---
+
+## 1. Information We Collect
+
+We may collect the following types of information when you use the App:
+
+### a. Information You Provide
+
+* Username, nickname, or profile name.
+* Optional profile details such as avatar or game preferences.
+* Messages or support inquiries if you contact us.
+
+### b. Information Collected Automatically
+
+* Device information (device type, operating system, app version).
+* Gameplay statistics and app usage information.
+* Log data for performance monitoring, analytics, and crash reporting.
+* Notification tokens for game invitations or updates.
+
+### c. Permissions
+
+برا السالفه may request access to:
+
+* **Notifications** — to send game invites, updates, and announcements.
+* **Internet Access** — for online gameplay and app functionality.
+
+You can manage or disable permissions anytime through your device settings.
+
+---
+
+## 2. How We Use Your Information
+
+We use collected information to:
+
+* Provide and improve gameplay features.
+* Manage multiplayer game sessions.
+* Enhance user experience and app performance.
+* Respond to support requests and feedback.
+* Monitor app stability, analytics, and security.
+* Prevent cheating, abuse, or unauthorized activity.
+
+---
+
+## 3. How We Share Information
+
+We do not sell or rent your personal information.
+
+We may share limited information:
+
+* With trusted service providers that help operate the App (analytics, hosting, notifications).
+* When required by law or legal obligations.
+* To protect the rights, safety, or security of users and the App.
+* During a merger, acquisition, or business transfer.
+
+---
+
+## 4. Data Security
+
+We use reasonable security measures to protect your information from unauthorized access, misuse, or disclosure.
+
+However, no method of electronic storage or internet transmission is completely secure, and absolute security cannot be guaranteed.
+
+---
+
+## 5. Data Retention
+
+We retain information only for as long as necessary to provide the App’s services and comply with legal obligations.
+
+You may request deletion of your data by contacting us at:
+
+**Email:** [support@outofthestory.app](mailto:support@outofthestory.app)
+
+---
+
+## 6. Children’s Privacy
+
+برا السالفه is not intended for children under 13 years of age (or the minimum legal age in your region).
+
+We do not knowingly collect personal information from children. If you believe a child has provided information, please contact us so we can remove it.
+
+---
+
+## 7. Your Rights
+
+Depending on your location, you may have rights to:
+
+* Access your personal data.
+* Correct inaccurate information.
+* Request deletion of your data.
+* Withdraw consent for certain processing activities.
+
+To exercise these rights, contact us at:
+
+**Email:** [support@outofthestory.app](mailto:support@outofthestory.app)
+
+---
+
+## 8. International Data Transfers
+
+Your information may be processed or stored in countries outside your residence.
+
+We take reasonable measures to ensure your information remains protected under applicable privacy laws.
+
+---
+
+## 9. Third-Party Services
+
+برا السالفه may use third-party services such as analytics providers, cloud hosting, or advertising networks.
+
+We are not responsible for the privacy practices of third-party services. Please review their privacy policies separately.
+
+---
+
+## 10. Gameplay Disclaimer
+
+برا السالفه is a social party game intended for entertainment purposes only.
+
+The game involves players asking and answering questions to identify the participant who does not know the hidden topic. The App does not moderate or verify user-generated conversations during gameplay.
+
+Users are responsible for maintaining respectful and appropriate behavior while using the App.
+
+---
+
+## 11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be reflected by updating the “Last Updated” date above. Continued use of the App after updates means you accept the revised policy.
+
+---
+
+## 12. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:
+
+**Email:** [GamingHStroke@gmail.com](mailto:GamingHStroke@gmail.com)
+
+**Subject Line:** “برا السالفه – Privacy Inquiry”

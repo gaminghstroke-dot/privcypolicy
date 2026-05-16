@@ -1,0 +1,112 @@
+Privacy Policy for Fart Hunter
+
+Last Updated: May 16, 2026
+
+Fart Hunter (“we,” “us,” or “our”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard information when you use the Fart Hunter mobile application (“App”).
+
+1. Information We Collect
+
+We may collect the following types of information when you use the App:
+
+a. Information You Provide
+Username or nickname if you create a profile.
+Optional profile information such as avatar or game preferences.
+Information you provide when contacting support.
+b. Information Collected Automatically
+Device information (device type, operating system, app version).
+Gameplay activity and usage statistics.
+Log data, crash reports, and performance analytics.
+Notification tokens for game updates or announcements.
+c. Permissions
+
+Fart Hunter may request access to:
+
+Notifications — to send updates, rewards, or announcements.
+Internet Access — for online features, ads, or leaderboard functionality.
+
+You can manage or disable permissions anytime through your device settings.
+
+2. How We Use Your Information
+
+We use collected information to:
+
+Provide and improve gameplay features.
+Maintain app performance and stability.
+Analyze gameplay trends and user engagement.
+Respond to support requests and feedback.
+Prevent cheating, abuse, or unauthorized activity.
+Send optional notifications about updates or events.
+3. How We Share Information
+
+We do not sell or rent your personal information.
+
+We may share limited information:
+
+With trusted third-party providers that support app operations (analytics, hosting, advertising, or notifications).
+When required by law or legal obligations.
+To protect the safety, rights, or security of users or the App.
+In connection with mergers, acquisitions, or business transfers.
+4. Data Security
+
+We use reasonable security measures to protect your information against unauthorized access, misuse, or disclosure.
+
+However, no electronic transmission or storage system is completely secure, and we cannot guarantee absolute security.
+
+5. Data Retention
+
+We retain information only as long as necessary to provide services, improve the App, and comply with legal obligations.
+
+You may request deletion of your information by contacting us at:
+
+Email: support@farthunter.app
+
+6. Children’s Privacy
+
+Fart Hunter is not intended for children under 13 years of age (or the minimum legal age in your country).
+
+We do not knowingly collect personal information from children. If you believe a child has provided information, please contact us so we can remove it.
+
+7. Your Rights
+
+Depending on your region, you may have rights to:
+
+Access your personal information.
+Correct inaccurate information.
+Request deletion of your data.
+Withdraw consent for certain processing activities.
+
+To exercise these rights, contact us at:
+
+Email: support@farthunter.app
+
+8. International Data Transfers
+
+Your information may be processed or stored in countries outside your residence.
+
+We take reasonable steps to ensure your information remains protected under applicable privacy laws.
+
+9. Third-Party Services
+
+Fart Hunter may use third-party services such as analytics tools, advertising providers, cloud hosting, or crash reporting services.
+
+We are not responsible for the privacy practices of third-party services. We encourage you to review their privacy policies separately.
+
+10. Entertainment Disclaimer
+
+Fart Hunter is a comedy and entertainment game designed for humorous gameplay experiences.
+
+The game includes funny themes, sound effects, and playful interactions intended solely for entertainment purposes.
+
+11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be reflected by updating the “Last Updated” date above. Continued use of the App after updates means you accept the revised policy.
+
+12. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us:
+
+Email: GamingHStroke@gmail.com
+
+Subject Line: “Fart Hunter – Privacy Inquiry”

@@ -1,0 +1,113 @@
+**PRIVACY POLICY**
+
+**Last Updated:** August 29, 2026
+
+**Kontakt** ("we," "our," or "us") respects your privacy and is committed to protecting the personal data of our users ("you" or "user"). This Privacy Policy explains how your information is collected, used, and disclosed when you use the **Kontakt** mobile application (the "App").
+
+---
+
+**1. Information We Collect**
+
+To provide you with our event contact management services, we collect the following types of information:
+
+* **Account & Profile Data:** When you sign in using Google Sign-In, we collect your authentication credentials via Firebase Auth. You voluntarily provide your personal details to generate your in-app static QR Code, including your full name, company name, job title, phone number, email address, and LinkedIn URL.
+
+
+* **Scanned Lead & Event Data:** Scanned contact information, event names, notes, and follow-up status ("Contacted" / "Not Contacted") created during your use of the App.
+
+
+* **Device Permissions:**
+* **Camera:** Required solely to scan QR codes during networking events.
+
+
+* **Contacts:** Required if you explicitly choose to export/add a scanned lead to your native device address book.
+
+
+* **Notifications:** Used locally on your device to display set follow-up reminders.
+
+
+
+
+
+---
+
+**2. How We Use Your Information**
+
+We use the collected information strictly to supply, maintain, and enhance the primary features of Kontakt:
+
+* To authenticate your account via Google Sign-In.
+
+
+* To render and display your static personal QR Code.
+
+
+* To organize and manage saved contacts ("Leads") under specific events created by you.
+
+
+* To execute background data sync between local storage and Firebase Firestore.
+
+
+* To trigger scheduled local push notifications for follow-up reminders.
+
+
+
+---
+
+**3. Data Storage & Security**
+
+* **Offline-First Storage:** Your data is cached locally on your mobile device to ensure full app functionality without internet connectivity.
+
+
+* **Cloud Sync & Infrastructure:** Data syncs securely to **Google Firebase** (Firestore & Auth) once internet access is established. Data protection relies on strict Firebase Security Rules, ensuring only you can access or write your stored records.
+
+
+* We do **not** sell, rent, monetize, or trade your personal information or contact database to third parties.
+
+---
+
+**4. Third-Party Services**
+
+The App integrates with third-party tools essential for core operation:
+
+* **Google Sign-In & Firebase Auth:** For identity authentication.
+
+
+* **Firebase Firestore:** For cloud database storage and synchronization.
+
+
+
+These third-party providers process data according to their respective privacy standards (Google Privacy Policy).
+
+---
+
+**5. Your Data Rights & Deletion**
+
+You retain full control over your stored data:
+
+* **Data Editing:** You can update your personal profile information anytime via Settings, which dynamically updates your QR code payload.
+
+
+* **Data Removal:** Deleting an event or lead within the App permanently removes that record.
+
+
+* **Account Erasure:** You may request the full deletion of your account and associated Firebase data by contacting us directly.
+
+---
+
+**6. Children's Privacy**
+
+Kontakt does not knowingly collect or solicit personal information from children under the age of 13. If we discover that a child under 13 has provided personal data, we will immediately delete it from our servers.
+
+---
+
+**7. Changes to This Privacy Policy**
+
+We may update our Privacy Policy periodically. Any changes will be published directly within the App or on our store listing page.
+
+---
+
+**8. Contact Us**
+
+If you have questions or concerns regarding this Privacy Policy, please contact us at:
+
+* **Email:** GamingHStroke@gmail.com *(Replace with your active support email)*
